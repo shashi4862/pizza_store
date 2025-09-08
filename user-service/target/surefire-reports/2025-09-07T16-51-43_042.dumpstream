@@ -1,0 +1,5 @@
+# Created at 2025-09-07T16:51:43.272
+Boot Manifest-JAR contains absolute paths in classpath 'D:\wipro\Pizzeria\user-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
